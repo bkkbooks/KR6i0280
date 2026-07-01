@@ -1,0 +1,286 @@
+canonical_identifier: bkk:krp/KR6i0280/T/v1
+canonical_location: https://kanripo.org/bkk/KR6i0280/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 佛說觀佛三昧海經
+  identifiers:
+    krp: KR6i0280
+    cbeta: T15n0643
+    cbeta_old_id: T15n0643
+    authorityid: CA0001192
+    json_key: T0643
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T15/T15n0643.xml
+    old_id: T15n0643
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6i0280_000-T.yaml, hash: 'sha256:1649dc3e83d5c13593c572f8b9cd4c499cb528e71ba0ebd2af69d20f1f84c5c5'}
+  - {seq: 1, filename: KR6i0280_001-T.yaml, hash: 'sha256:4c9b9492c34aa7b80a980f3bc34b3addcfd53fdc05fbf62064b72c322a2062ee'}
+  - {seq: 2, filename: KR6i0280_002-T.yaml, hash: 'sha256:8ebc41cb49b9e6ed0cf12632a696ab014722fab87ab74a51b77985907c113442'}
+  - {seq: 3, filename: KR6i0280_003-T.yaml, hash: 'sha256:c27998e644e26c0dcff53751ec2e7d003765cce5aac67aa66b4fb96ea2431b0f'}
+  - {seq: 4, filename: KR6i0280_004-T.yaml, hash: 'sha256:e5cd3cb706f69bbc3be3cdb4db6816069f7446a9e97e06eb1ecea50da7fc43be'}
+  - {seq: 5, filename: KR6i0280_005-T.yaml, hash: 'sha256:27f2e0bac1a3ccd5d807f3e4b1444b2f34222d8b29f3ba9378d51553c677f400'}
+  - {seq: 6, filename: KR6i0280_006-T.yaml, hash: 'sha256:b037167cedd258f389b1308318440312941b5b668d23178384bc86916b2583cd'}
+  - {seq: 7, filename: KR6i0280_007-T.yaml, hash: 'sha256:7714ae7b0b319acde364d4d9a45be1ebe1bb6ebf0de71698f4711faddd92b729'}
+  - {seq: 8, filename: KR6i0280_008-T.yaml, hash: 'sha256:4be8d1283ca9f83c10b0172cb8342f2284b42a6916df4eb2e129a952c7572e42'}
+  - {seq: 9, filename: KR6i0280_009-T.yaml, hash: 'sha256:89347697dccc2fe51146ec3b8190a2b3183fde1d028d9f4b6380d598920de7ea'}
+  - {seq: 10, filename: KR6i0280_010-T.yaml, hash: 'sha256:ae0b99fc97e3f37a7fb630b58b34ee2c277801d787353e44c6b96c106f9569bd'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6i0280_000-T.markers.yaml, hash: 'sha256:1f0395060d47c5e481139de816bbee42bf171000887960b4cb4f3778dcdbbd07'}
+  - {seq: 1, role: markers, filename: assets/KR6i0280_001-T.markers.yaml, hash: 'sha256:eae6661088dcc5fd6670208047610e7df51e16442b59992346088aa94408af48'}
+  - {seq: 2, role: markers, filename: assets/KR6i0280_002-T.markers.yaml, hash: 'sha256:c4dc311e96099acd9756f592a8f125495b4ff7636d12edc75a1078c8552910e5'}
+  - {seq: 3, role: markers, filename: assets/KR6i0280_003-T.markers.yaml, hash: 'sha256:50580e2525f96cab8be780b6a859956c38d90d8be49683332017365f26fd808c'}
+  - {seq: 4, role: markers, filename: assets/KR6i0280_004-T.markers.yaml, hash: 'sha256:5f9d3e117e9d2aebd8cc259cb55a94ce76c80aca4767f9b47764dc309041f7de'}
+  - {seq: 5, role: markers, filename: assets/KR6i0280_005-T.markers.yaml, hash: 'sha256:dd187e808c0eb5a56b7300777358d4df901d4df22da49dda7947a27cf199619e'}
+  - {seq: 6, role: markers, filename: assets/KR6i0280_006-T.markers.yaml, hash: 'sha256:f4116a301b5695a3a9678dc29f93e7e75bab82bd7996edf18ec956b0b82d0823'}
+  - {seq: 7, role: markers, filename: assets/KR6i0280_007-T.markers.yaml, hash: 'sha256:caa72d57e1b383c61632172cee37748e86731fc68951bee12e0edbd3edaefd6c'}
+  - {seq: 8, role: markers, filename: assets/KR6i0280_008-T.markers.yaml, hash: 'sha256:ddd448808f14eda3a3d9a87b566d3840a38f063177fe6750082553942584bcf7'}
+  - {seq: 9, role: markers, filename: assets/KR6i0280_009-T.markers.yaml, hash: 'sha256:141dd80229100313c40a769a2535355aef3d12d289ad4fef2259e78e4bdbe4ac'}
+  - {seq: 10, role: markers, filename: assets/KR6i0280_010-T.markers.yaml, hash: 'sha256:b0b48bb1c1ec9749a508ed8204c2f259f37d0e088a1583ba7735cb317ca4084f'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6i0280_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 7348
+  label: 佛說觀佛三昧海經卷第一
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0280_T_001-mulu-1
+    span:
+    - body
+    - 12
+    - 12
+  label: 1 六譬品(一)
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0280_T_001-mulu-2
+    span:
+    - body
+    - 2523
+    - 2523
+  label: 2 序觀地品(一)
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0280_T_001-mulu-3
+    span:
+    - body
+    - 4578
+    - 4578
+  label: 3 觀相品(一-四)
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0280_T_001-mulu-4
+    span:
+    - body
+    - 4578
+    - 4578
+  label: '1'
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6i0280_T_002-juan-start
+    span:
+    - body
+    - 0
+    - 7583
+  label: 佛說觀佛三昧海經卷第二
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6i0280_T_003-juan-start
+    span:
+    - body
+    - 0
+    - 9103
+  label: 佛說觀佛三昧海經卷第三
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6i0280_T_004-juan-start
+    span:
+    - body
+    - 0
+    - 7718
+  label: 佛說觀佛三昧海經卷第四
+  type: juan
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6i0280_T_005-juan-start
+    span:
+    - body
+    - 0
+    - 8091
+  label: 佛說觀佛三昧海經卷第五
+  type: juan
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6i0280_T_005-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 4 觀佛心品(五)
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6i0280_T_006-juan-start
+    span:
+    - body
+    - 0
+    - 5852
+  label: 佛說觀佛三昧海經卷第六
+  type: juan
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6i0280_T_006-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 5 觀四無量心品(六)
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6i0280_T_006-mulu-2
+    span:
+    - body
+    - 1577
+    - 1577
+  label: 6 觀四威儀品(六-七)
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6i0280_T_006-mulu-3
+    span:
+    - body
+    - 1577
+    - 1577
+  label: '1'
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6i0280_T_007-juan-start
+    span:
+    - body
+    - 0
+    - 6340
+  label: 佛說觀佛三昧海經卷第七
+  type: juan
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6i0280_T_008-juan-start
+    span:
+    - body
+    - 0
+    - 5621
+  label: 佛說觀佛三昧海經卷第八
+  type: juan
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6i0280_T_008-mulu-1
+    span:
+    - body
+    - 12
+    - 12
+  label: 7 觀馬王藏品(八)
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6i0280_T_009-juan-start
+    span:
+    - body
+    - 0
+    - 8053
+  label: 佛說觀佛三昧海經卷第九
+  type: juan
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6i0280_T_009-mulu-1
+    span:
+    - body
+    - 12
+    - 12
+  label: 8 本行品(九)
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6i0280_T_009-mulu-2
+    span:
+    - body
+    - 3739
+    - 3739
+  label: 9 觀像品(九)
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6i0280_T_010-juan-start
+    span:
+    - body
+    - 0
+    - 5572
+  label: 佛說觀佛三昧海經卷第十
+  type: juan
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6i0280_T_010-mulu-1
+    span:
+    - body
+    - 12
+    - 12
+  label: 10 念七佛品(一〇)
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6i0280_T_010-mulu-2
+    span:
+    - body
+    - 1191
+    - 1191
+  label: 11 念十方佛品(一〇)
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6i0280_T_010-mulu-3
+    span:
+    - body
+    - 3198
+    - 3198
+  label: 12 觀佛密行品(一〇)
+  type: mulu
+  level: 1
+hash: sha256:980be0308662e08a036506202daac7df848ca86621ae4d1c0e9b9ba049573851
